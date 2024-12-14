@@ -1,0 +1,35 @@
+3D Objects/
+AppData/
+Application Data@
+Contacts/
+Cookies@
+Desktop/
+Documents/
+Downloads/
+Favorites/
+IdeaProjects/
+Links/
+Local Settings@
+MicrosoftEdgeBackups/
+Music/
+NTUSER.DAT
+NTUSER.DAT{29fc9469-960b-11ef-a905-ee84e2b193ee}.TM.blf
+NTUSER.DAT{29fc9469-960b-11ef-a905-ee84e2b193ee}.TMContainer00000000000000000001.regtrans-ms
+NTUSER.DAT{29fc9469-960b-11ef-a905-ee84e2b193ee}.TMContainer00000000000000000002.regtrans-ms
+NetHood@
+OneDrive/
+Pictures/
+PrintHood@
+Recent@
+Saved Games/
+Searches/
+SendTo@
+Videos/
+VirtualBox VMs/
+ntuser.dat.LOG1
+ntuser.dat.LOG2
+ntuser.ini
+perminov/
+Мои документы@
+Шаблоны@
+главное меню@
